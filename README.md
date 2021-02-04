@@ -2,7 +2,7 @@
 You've stumbled across what this organization is for, if it weren't already obvious.
 
 ## Purposes
-This organization exists for the purpose of hosting my Discord modded-client-related repositories, clients such as Vizality or Powercord will be supported here (the later (Powercord) will receive less support moving into it's "V3" stage). I will also host other Discord related things here, such as code for my own Bot(s), however they will remain private for the time being.
+This organization exists for the purpose of hosting my Discord related repositories, clients such as Vizality or Powercord will be supported here (the later (Powercord) will receive less support moving into its "V3" stage). I will also host other Discord related things here, such as code for my own Bot(s), however they will remain private for the time being.
 
 Things such as...
 
