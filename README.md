@@ -2,7 +2,7 @@
 You've stumbled across what this organization is for, if it weren't already obvious.
 
 ## Purposes
-This organization exists for the purpose of hosting my Discord related repositories, clients such as Vizality or Powercord will be supported here (the later (Powercord) will receive less support moving into its "V3" stage). I will also host other Discord related things here, such as code for my own Bot(s), however they will remain private for the time being.
+This organization exists for the purpose of hosting my Discord related repositories, clients such as my own or other's Cordcord Discord managers will be supported. I will also host other Discord related things here, such as code for my own Bot(s), however they will remain private for the time being.
 
 Things such as...
 
@@ -20,7 +20,7 @@ If something is unlicensed or the license depicts that you must have express per
 ## Topics - What do they mean?
 Topics are a way of sorting through my repositories, if you don't wish to see discontinued plugins you can just simply sift out "end-of-life" as a topic.
 
-* end-of-life - The repository is no longer maintained, however if it breaks or does not behave as expected and someone submits a PR to fix it or attempt to fix it, I will check that it not only works, but performs expectedly. If it meets these two criteria, it is likely to be merged.
+* dead - The repository is no longer maintained, however if it breaks or does not behave as expected and someone submits a PR to fix it or attempt to fix it, I will check that it not only works, but performs expectedly. If it meets these two criteria, it is likely to be merged.
 * \*-theme - It is a theme, for modded-clients.
 * \*-plugin - It is a plugin, for modded-clients.
 
